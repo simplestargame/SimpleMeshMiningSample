@@ -13,7 +13,7 @@ Follow these steps to try out the Sample:
 1. Play the sample scene.
 1. Click the screen.
 
-# ランタイムメッシュ細分化サンプル
+# ランタイムメッシュ採掘サンプル
 
 **ランタイムメッシュ採掘サンプル** リポジトリへようこそ！  
 このリポジトリはクリックした周辺をメッシュ細分化し、キューブ化したものが物理挙動するサンプルです。  
