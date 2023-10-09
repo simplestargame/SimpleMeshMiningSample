@@ -1,5 +1,7 @@
 # Simple Mesh Mining Sample
 
+[Click Demo (WebGL)](https://d1nl077dbzu98o.cloudfront.net/MeshMiningSample2/index.html)
+
 Welcome to the Simple Mesh Mining Sample repository!  
 This repository is a sample where the surrounding area, when clicked, undergoes mesh subdivision and is cubified to demonstrate physical behavior. The key feature here is the use of large merged meshes displayed in the distance, which undergo spatial downsampling to reduce memory usage.
 
